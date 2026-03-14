@@ -12,7 +12,7 @@ html {
 }
 body { 
     overflow: hidden;
-    background-image: url("/assets/wall.jpg");
+    background-image: url("./assets/wall.jpg");
     background-size: cover;
     color: #f0f0f0;
 }
